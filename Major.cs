@@ -107,7 +107,7 @@ namespace OotReference
         LightNodeSRM,
         EntrancePointGlitch,
         DownA,
-        FlexDrop //-- high enough other ammo, hearts, magic to get other types of ammo,
+        FlexDrop, //-- high enough other ammo, hearts, magic to get other types of ammo,
         BlankA,
 		SkullPush,
 		HorsePush,
