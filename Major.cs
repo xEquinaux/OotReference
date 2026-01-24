@@ -109,7 +109,9 @@ namespace OotReference
         DownA,
         FlexDrop -- high enough other ammo, hearts, magic to get other types of ammo,
         BlankA,
-		SkullPush		
+		SkullPush,
+		HorsePush,
+		OneSixteenth
     }
     public enum Item
     {
