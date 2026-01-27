@@ -111,7 +111,14 @@ namespace OotReference
         BlankA,
 		SkullPush,
 		HorsePush,
-		OneSixteenth
+		OneSixteenth,
+		HeapWarp,
+		HeapManipulation,
+		ZeroSpeed,
+		TimeStop,
+		Hoverbootsed,
+		MegaEeno,
+		DinoplVoidWarp
     }
     public enum Item
     {
