@@ -118,7 +118,23 @@ namespace OotReference
 		TimeStop,
 		Hoverbootsed,
 		MegaEeno,
-		DinoplVoidWarp
+		DinoplVoidWarp,
+		// continued from 2-12
+		ZoraWaterSeam,
+		Spin2Win,
+		FireUppies,
+		AntiGravity,
+		PoeDive,
+		BugsDotSkip,
+		LedgeCancel,
+		ZombieJump,
+		Backshot,
+		FaroresWindButtonPressDotSkip,
+		DeathHole,
+		LacsWrongWarp,
+		AntiGravity,
+		ZombieWalkWESS,
+		TempB
     }
     public enum Item
     {
