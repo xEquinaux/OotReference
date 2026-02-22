@@ -119,7 +119,7 @@ namespace OotReference
 		Hoverbootsed,
 		MegaEeno,
 		DinoplVoidWarp,
-		// continued from 2-12
+		// continued from 2-21
 		ZoraWaterSeam,
 		Spin2Win,
 		FireUppies,
